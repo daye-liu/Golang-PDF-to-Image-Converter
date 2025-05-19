@@ -1,4 +1,4 @@
-module Golang-PDF-to-Image-Converter
+module github.com/daye-liu/Golang-PDF-to-Image-Converter
 
 go 1.22
 

@@ -1,4 +1,4 @@
-module pdfToImgProject
+module Golang-PDF-to-Image-Converter
 
 go 1.22
 
